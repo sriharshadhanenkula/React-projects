@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.Tab-name {
+  text-decoration: underline;
+  color: #7b8794;
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+.update-Tab-name {
+  text-decoration: underline;
+  color: #2563eb;
+  font-size: 25px;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}

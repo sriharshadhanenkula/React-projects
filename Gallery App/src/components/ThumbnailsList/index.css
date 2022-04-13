@@ -1,0 +1,31 @@
+/* Write your code here. */
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.list-container {
+  list-style: none;
+  display: flex;
+  padding: 0px;
+}
+.list-item {
+  margin-right: 10px;
+  opacity: 0.5;
+}
+.main-heading {
+  font-family: roboto;
+  color: #1e293b;
+  font-size: 30px;
+  font-weight: bold;
+}
+.paragraph {
+  font-family: roboto;
+  color: #64748b;
+  font-size: 15px;
+}
+.selected-item {
+  opacity: 1;
+}

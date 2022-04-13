@@ -1,0 +1,35 @@
+.list-item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.list-item-text-container {
+  display: flex;
+  align-items: center;
+}
+.time {
+  font-family: Roboto;
+  margin-right: 40px;
+  color: #475569;
+}
+.list-item-image {
+  height: 24px;
+  margin-right: 15px;
+}
+.title {
+  font-family: Roboto;
+  color: #475569;
+  margin-right: 10px;
+}
+.domain-url {
+  color: #64748b;
+  font-family: Roboto;
+  font-size: 14px;
+}
+.my-button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}

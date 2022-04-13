@@ -1,0 +1,11 @@
+/* Write your code here. */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+.main-image {
+  height: 400px;
+}

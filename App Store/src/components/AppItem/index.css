@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.app-item {
+  background-color: white;
+  border-radius: 10px;
+  padding: 18px;
+  padding-bottom: 5px;
+  text-align: center;
+  margin: 10px;
+}
+.app-image {
+  height: 90px;
+}
+.app-name {
+  font-size: 15px;
+  font-family: Bree Serif;
+  color: #1e293b;
+}
